@@ -1,0 +1,9 @@
+sudo mkdir /Volumes/usb
+sudo mount -t hfs /dev/disk2 /Volumes/usb/
+sudo mount -t hfs /dev/disks3s2 /Volumes/usb/
+diskutil list
+sudo mkdir /Volumes/usb
+sudo mount -t hfs /dev/disk2 /Volumes/usb/
+sudo mkdir /Volumes/usb
+sudo mkdir /Volumes/usb1
+sudo mount -t hfs /dev/disk2 /Volumes/usb1/
